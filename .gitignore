@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Уроки 3-16.txt
