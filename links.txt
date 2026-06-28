@@ -1,0 +1,40 @@
+Ссылки на выполненные задания в репозитории GitHub для сдачи:
+
+Урок №3 (Ввод-вывод и базовые переменные):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_3
+
+Урок №4 (float, int и арифметические операции):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_4
+
+Урок №5 (Логические и условные операторы):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_5
+
+Урок №6 (Циклы while и for):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_6
+
+Урок №7 (Строки):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_7
+
+Урок №8 (Списки):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_8
+
+Урок №9 (Множества):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_9
+
+Урок №10 (Словари):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_10
+
+Урок №11 (Функции):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_11
+
+Урок №13 (Двумерные списки):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_13
+
+Урок №14 (Рекурсия):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_14
+
+Урок №15 (ООП):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_15
+
+Урок №16 (Классы и объекты):
+https://github.com/x8gk5f/12-lessons/tree/main/Урок_16
